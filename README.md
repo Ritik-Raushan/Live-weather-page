@@ -5,3 +5,6 @@ this is my second Repository
  temperature of the city ,max temperature of the day, wind speed, humidity etc are information provided to you.
  
  --you just need to fill the desired city name and submit.
+
+--sever is listining at port no 3000 
+on localhost.
